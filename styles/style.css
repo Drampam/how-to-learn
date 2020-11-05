@@ -1,3 +1,5 @@
+/* КРУТО, Ольга, спасибо вам за ваши комментарии! Стало понятнее и опрятнее! */
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -63,9 +65,17 @@
   margin: 0;
 }
 
-.header__link, .feynman__link {
+.header__link {
   color: #2f80ed;
   text-decoration: none;
+}
+
+.header__link:hover {
+  text-decoration: underline;
+}
+
+.header__link:active {
+  text-decoration: underline;
 }
 
 .header__main-illustration {
@@ -262,6 +272,16 @@
   font-size: 36px;
   font-weight: normal;
   margin: 0;
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.feynman__link:hover {
+  text-decoration: underline;
+}
+
+.feynman__link:active {
+  text-decoration: underline;
 }
 
 .kaufman {
@@ -360,10 +380,10 @@
 
 /* С учетом комментария в ревью №2 вернул ховер и экшн к классам, а не тэгам */
 
-.footer__link:hover, .header__link:hover, .feynman__link:hover {
+.footer__link:hover {
   text-decoration: underline;
 }
 
-.footer__link:active, .header__link:active, .feynman__link:active {
+.footer__link:active {
   text-decoration: underline;
 }
