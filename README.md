@@ -1,7 +1,7 @@
-H1 Yandex Praktikum - Front-end developer - 
+Yandex Praktikum - Front-end developer
 ---------------------------------------
 
-FOLDER FOR REVIEW - H2 SPRINT 2 PROJECT
+**FOLDER FOR REVIEW - SPRINT 2 PROJECT**
 
 ---------------------------------------
 Этот проект направлен на консолидацию знаний о том, как качественно обучаться.
