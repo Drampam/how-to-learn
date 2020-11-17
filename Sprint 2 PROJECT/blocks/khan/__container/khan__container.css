@@ -1,0 +1,10 @@
+.khan__container {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 80%;
+  margin: auto;
+}

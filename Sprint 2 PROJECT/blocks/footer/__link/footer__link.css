@@ -1,0 +1,14 @@
+.footer__link {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+/* С учетом комментария в ревью №2 вернул ховер и экшн к классам, а не тэгам */
+
+.footer__link:hover {
+  text-decoration: underline;
+}
+
+.footer__link:active {
+  text-decoration: underline;
+}
